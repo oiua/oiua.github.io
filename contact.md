@@ -6,9 +6,9 @@ permalink: /contact/
 <p id="thanks" style="display:none">Your message has been send successfully. Thank you.</p>
 <p id="note">We are happy to hear from you. Please not contact us for advertisement of any form.</p>
 
-<form action="https://www.formingo.co/submit/7091750b-330c-4508-901b-560f168e6b06"
+<form action="https://getsimpleform.com/messages?form_api_token=71163229007efa8e0cbbeea25741e8f8"
   method="POST" id="form">
-  <input type="hidden" name="__redirect" value="{{ site.url }}/contact#thank-you">
+  <input type="hidden" name="redirect_to" value="{{ site.url }}/contact#thank-you">
 	<div style="margin-bottom:15px;">
 		<label style="display: inline-block;max-width: 100%;margin-bottom: 5px;font-weight: 700;">
 			Name
