@@ -14,7 +14,8 @@ Clara-Zetkin-Str. 17
 
 Director: Mr. Ingo Kampe  
 Registration office: Amtsgericht Potsdam  
-Registration ID: HRB 29862 P
+Registration ID: HRB 29862 P  
+VAT ID (§27a): DE311491528
 
 ## Privacy
 
