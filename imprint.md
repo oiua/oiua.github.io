@@ -22,4 +22,4 @@ VAT ID (§27a): DE311491528
 This page is hosted in *GitHub Pages*. Related privacy rules:  
 https://help.github.com/privacy/
 
-Their is no additional tracking or custom logging of anything.
+There is no additional tracking or custom logging of anything.
